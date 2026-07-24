@@ -1,0 +1,17 @@
+# Environment variables (secrets)
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+database/*.db
+
+# Snapshots (generated at runtime, not source code)
+snapshots/*.jpg
+snapshots/*.png
+
+# VS Code
+.vscode/
